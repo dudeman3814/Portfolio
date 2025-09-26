@@ -1,5 +1,4 @@
 :root {
-  /* this has to be set to switch between light or dark */
   color-scheme: light dark;
 
   --light-bg: #ddfdff;
