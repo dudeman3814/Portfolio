@@ -1,13 +1,4 @@
 :root {
-  color-scheme: light dark;
+  color-scheme: dark;
 
-  --light-bg: #ddfdff;
-  --light-color: #060c0c;
-
-  --dark-bg: #0a0f32;
-  --dark-color: #f6f6ff;
-}
-* {
-  background-color: light-dark(var(--light-bg), var(--dark-bg));
-  color: light-dark(var(--light-color), var(--dark-color));
 }
