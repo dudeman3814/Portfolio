@@ -1,4 +1,12 @@
 :root {
   color-scheme: dark;
+  font-family: Arial, Helvetica, sans-serif
+}
 
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
 }
